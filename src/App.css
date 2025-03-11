@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+  @theme {
+    --color-numero: #ffffff; /* Branco para os números */
+    --color-operator: #4db6ac; /* Verde-azulado para operadores */
+    --color-input: #263238; /* Azul acinzentado escuro para a área de entrada */
+    --color-background: #181f24; /* Fundo escuro da calculadora */
+    --color-equal: #ff9800; /* Laranja para o botão de igual */
+  }
+
